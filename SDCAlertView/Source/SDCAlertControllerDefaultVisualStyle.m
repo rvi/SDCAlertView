@@ -36,7 +36,7 @@
 
 -(BOOL)contentViewIsOnTop
 {
-	return NO;
+	return YES;
 }
 
 #pragma mark - Title & Message Labels
